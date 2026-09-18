@@ -1,4 +1,5 @@
-# PR-CI-Pipeline — Developer README
+# PR-CI-Pipeline
+## STAGE - 1 
 
 **Author:** Shubham Tripathi  
 **Repository:** `ecom-frontend` (Next.js 14 · App Router · TypeScript)  
